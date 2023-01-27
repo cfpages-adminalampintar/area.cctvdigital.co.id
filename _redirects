@@ -6,4 +6,4 @@
 /tentang https://cctvdigital.co.id/tentang 301
 /kontak https://cctvdigital.co.id/kontak 301
 /berita https://cctvdigital.co.id/berita 301
-/*.html https://cctvdigital.co.id/pasang-cctv-:splat 301
+/:kota.html https://cctvdigital.co.id/pasang-cctv-:kota 301
