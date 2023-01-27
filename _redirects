@@ -1,0 +1,9 @@
+/ https://cctvdigital.co.id 301
+/produk https://cctvdigital.co.id/produk 301
+/pasang https://cctvdigital.co.id/pasang 301
+/pasang/* https://cctvdigital.co.id/pasang-cctv/:splat 301
+/merk https://cctvdigital.co.id/merk 301
+/tentang https://cctvdigital.co.id/tentang 301
+/kontak https://cctvdigital.co.id/kontak 301
+/berita https://cctvdigital.co.id/berita 301
+/*.html https://cctvdigital.co.id/pasang-cctv-:splat 301
