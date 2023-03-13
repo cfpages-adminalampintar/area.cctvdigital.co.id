@@ -7,3 +7,4 @@
 /kontak https://cctvdigital.co.id/kontak 301
 /berita https://cctvdigital.co.id/berita 301
 /:kota.html https://cctvdigital.co.id/pasang-cctv-:kota 301
+/:kota/:kecamatan.html https://cctvdigital.co.id/pasang-cctv-:kota/:kecamatan 301
